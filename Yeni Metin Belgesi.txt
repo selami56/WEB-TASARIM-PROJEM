@@ -1,0 +1,2 @@
+<marquee behavior="alternate" bgColor="red">WEBCEBÝR.COM</marquee>
+<marquee direction=right><img src="http://www.sitekodlari.com/img/ari.png"></marquee>
